@@ -30,7 +30,7 @@
   
   python detect_forest_fires.py --image_path path/to/your/image.jpg
 # Dataset
-  We used a curated dataset of forest fire images for training and evaluation. The dataset is available at 'kaggle datasets download -d alik05/forest-fire-dataset'. Please refer to the dataset source for terms of use and 
+  We used a curated dataset of forest fire images for training and evaluation. The dataset is available at https://www.kaggle.com/datasets/elikplim/forest-fires-data-set. Please refer to the dataset source for terms of use and 
   citation requirements.
 
 # Pre-trained Models
